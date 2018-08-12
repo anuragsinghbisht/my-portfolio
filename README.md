@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio
+# Anurag Singh Bisht's Portfolio
+
+This is my professional Portfolio. It uses AWS & React.
