@@ -1,0 +1,40 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "This is my professional Portfolio. It uses AWS & React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watch",
+    "webpack": "webpack",
+    "webpack-watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragsinghbisht/my-portfolio.git"
+  },
+  "keywords": [],
+  "author": "Anurag Singh Bisht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuragsinghbisht/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/anuragsinghbisht/my-portfolio#readme",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.4.2",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "enzyme": "^3.4.3",
+    "enzyme-adapter-react-16": "^1.2.0",
+    "jest": "^23.5.0",
+    "react-test-renderer": "^16.4.2",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  }
+}
